@@ -156,7 +156,7 @@ By identifying high-risk factors, healthcare providers can prioritize **preventi
 ## 🚀 How to Run
 ```bash
 # Clone this repository
-git clone https://github.com/<your-username>/Cancer-Data-Analysis.git
+git clone https://github.com/Pragati928/Cancer-data-Analysis.git
 
 # Navigate into project folder
 cd Cancer-Data-Analysis
