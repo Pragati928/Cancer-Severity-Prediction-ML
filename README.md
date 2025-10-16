@@ -130,22 +130,12 @@ Top drivers of cancer severity are **Smoking**, **Genetic Risk**, and **Environm
 | Data Analysis | Pandas, NumPy |
 | Visualization | Matplotlib, Seaborn |
 | Machine Learning | Scikit-learn |
-| Optional Interpretability | SHAP |
+| Techniques | Exploratory Data Analysis (EDA), Correlation Analysis, Feature Importance, Random Forest Regression |
 | Notebook Environment | Jupyter Notebook / Google Colab |
+| Version Control | Git & GitHub |
 
 ---
 
----
-
-## 🧰 Tools & Technologies Used
-
-**Languages:** Python, Markdown  
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-**Environment:** Jupyter Notebook, Anaconda  
-**Version Control:** Git & GitHub  
-**Techniques:** Exploratory Data Analysis (EDA), Correlation Analysis, Feature Importance, Random Forest Regression
-
----
 
 ## 🧠 Results Summary
 
